@@ -1,0 +1,12 @@
+streamlit
+pdfminer.six
+openai
+requests
+Pillow
+pymysql
+pandas
+matplotlib
+
+
+
+

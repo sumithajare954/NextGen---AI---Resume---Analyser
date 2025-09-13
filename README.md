@@ -193,17 +193,17 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 ## Developer Information
-
-**Developed by:** Umar Faizan  
-**GitHub:** [u-faizan](https://github.com/u-faizan)  
-**Email:** [mianumarzareen@gmail.com](mailto:mianumarzareen@gmail.com)
+  
+**Developed by:** Sumit Hajare
+**GitHub:** [sumithajare954](https://github.com/sumithajare954)  
+**Email:** [sumithajare954@gmail.com](sumithajare954@gmail.com)
 
 ---
 
 ## Contact and Support
 
 - **Issues**: If you encounter bugs or have feature requests, please open an issue on [GitHub](https://github.com/u-faizan/nextgen-resume-analyzer/issues).
-- **Email**: For general inquiries or collaboration proposals, email at [mianumarzareen@gmail.com](mailto:mianumarzareen@gmail.com).
+- **Email**: For general inquiries or collaboration proposals, email at [sumithajare954@gmail.com](sumithajare954@gmail.com).
 
 ---
 
